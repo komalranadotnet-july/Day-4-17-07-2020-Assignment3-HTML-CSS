@@ -1,0 +1,101 @@
+.container{
+        
+    background: 2px solid;
+   
+    background-image: linear-gradient(#772953, #e95420  );
+      }
+        
+        #header
+        {
+            
+            border:2px solid white;  
+                  display: flex;
+                  padding: 10px;
+                  width: 95%;
+                  margin-left: 10px;
+                  height: 40px;
+                  color:white;
+  
+        }
+
+         #main
+         {
+             
+                  display: flex;
+                  flex-direction: row;
+                  width: 95%;
+                  height: 500px;
+                  margin-top: 10px;
+                  margin-left: 10px;
+                  color:white;
+                  text-align: center;
+                  
+  
+         }
+          
+          #content{
+         
+                border:2px solid white;  
+                  display: flex;
+                  padding: 20px;
+                  margin-left: 10px;
+                  height: 450px;
+                  color:white;
+                  margin-top: 4px;
+                  width:900px;
+                
+                 order: 2;
+                 
+          }
+          #secondary{
+               
+                  border:2px solid white;  
+                  display: flex;
+                  padding: 20px;
+                  margin-left: 10px;
+                  height: 450px;
+                  color:white;
+                  margin-top: 4px;
+                  width:100px;
+                  order: 1;
+
+ 
+                                 
+  
+                }
+  
+          #tertiary{
+             
+                border:2px solid white;  
+                display: flex;
+                padding: 20px;
+                margin-left: 10px;
+                height: 450px;
+                color:white;
+                margin-top: 4px;
+                width:100px;
+                order: 3;
+                  
+                  
+
+
+
+
+  }
+  
+  
+          #footer{
+               
+                 border:2px solid white;  
+                 display: flex;
+                 margin-left: 10px;
+                 padding: 10px;
+                 width: 95%;
+                 margin-top: 20px;
+                 height: 40px;
+                 color: white;
+  
+  }
+
+  
+
